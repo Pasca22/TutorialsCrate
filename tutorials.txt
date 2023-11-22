@@ -1,0 +1,10 @@
+C++ in 100 seconds|Fireship|3|50000|https://www.youtube.com/watch?v=MNeX4EGtR5Y
+C++ Tutorial for Beginners|Mosh|82|36000|https://www.youtube.com/watch?v=ZzaPdXTrSb8
+C++ Programming Course|CodeCamp|250|259000|https://www.youtube.com/watch?v=vLnPwxZdW4Y
+Introducere in C++|Fireship|20|7600|https://www.youtube.com/watch?v=ZzaPdXTrSb8
+C++ complete course|Jenny|10|5200|https://www.youtube.com/watch?v=oOmbSpOzvYg&list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee&index=1
+C++ Full Course|Mosh|360|33000|https://www.youtube.com/watch?v=-TkoO8Z07hI&ab_channel=BroCode
+How to REALLY learn C++|Cherno|8|24000|https://www.youtube.com/watch?v=_zQqN5OYCCM&ab_channel=TheCherno
+Why Learn C++?|Caleb Curry|10|350|https://www.youtube.com/watch?v=gXz1N0zPzOQ&ab_channel=CalebCurry
+Learn C++ With Me|Mosh|18|5100|https://www.youtube.com/watch?v=lPd13fsU-CQ&ab_channel=TechWithTim
+C++ Tutorial|Derek Banas|142|7100|https://www.youtube.com/watch?v=6y0bp-mnYU0&ab_channel=DerekBanas
